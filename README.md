@@ -47,7 +47,7 @@ Linux gives you the best experience (raw TTY interactive shell via `termios`). O
 ## Quick start
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/fikrimohammad030/akazza
 cd akazza
 pip install requests
 python3 akazza.py
