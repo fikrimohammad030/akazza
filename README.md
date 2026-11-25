@@ -158,7 +158,7 @@ All tunables live in the `CONFIG` dict at the top of `akazza.py` and are shared 
 
 ```python
 CONFIG = {
-    "default_target": "http://192.168.44.131/",
+    "default_target": "http:/<target ip>/",
     "listen_port": 4444,          # built-in listener port
     "shell_param": "cmd",          # webshell parameter name
     "crawl_max_pages": 25,
