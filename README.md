@@ -1,4 +1,3 @@
-cat > README.md << 'AKAZZA_EOF'
 # AKAZZA
 
 **PHP WebShell → System Shell Framework** · *SMART PLUGIN EDITION*
